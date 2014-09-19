@@ -1,8 +1,12 @@
-package main;
+package de.lsb.fileparserwithutility.main;
 
 import static org.junit.Assert.assertEquals;
+
 import java.io.IOException;
+
 import org.junit.Test;
+
+import de.lsb.fileparserwithutility.main.ContentAnalyzer;
 
 /**
  *	Test class for {@link ContentAnalyzer}.
